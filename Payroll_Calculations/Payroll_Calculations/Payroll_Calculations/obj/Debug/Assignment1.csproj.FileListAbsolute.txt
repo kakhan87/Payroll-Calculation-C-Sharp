@@ -1,0 +1,6 @@
+C:\Users\853747\source\repos\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\853747\source\repos\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\853747\source\repos\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\853747\source\repos\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\853747\source\repos\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\853747\source\repos\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
